@@ -1,0 +1,20 @@
+{
+  "name": "juby",
+  "version": "1.0.0",
+  "description": "ruby and js",
+  "main": "parse.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Voxoff@bitbucket.org/danielkaczmarczyk/juby.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/danielkaczmarczyk/juby#readme",
+  "dependencies": {
+    "esm": "^3.2.5"
+  }
+}
